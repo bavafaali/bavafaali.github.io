@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Ali Bavafa
+title: Ali Ba-Vafa
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Ali
-last_name: Bavafa
+last_name: Ba-Vafa
 
 # Status emoji
 status:

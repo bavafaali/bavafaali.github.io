@@ -1,7 +1,7 @@
 ---
 title: "On The Causal Network Of Face-selective Regions In Human Brain During Movie Watching"
 authors:
-- Bavafa, Ali, Hossein-Zadeh, Gholam-Ali
+- Ba-Vafa, Ali, Hossein-Zadeh, Gholam-Ali
 date: "2025-01-04T00:00:00Z"
 doi: ""
 
