@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Researcher
+role: Data Scientist | Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -74,7 +74,7 @@ education:
     # - Machine Learning
     # - Deep Generative Models
 
-  - area: M.Sc. Exchange Student in Computer Science
+  - area: M.Sc. ICM Student in Computer Science
     institution: Mälardalen University, Västerås, Sweden
     date_start: 2023-01-15
     date_end: 2023-06-11
