@@ -191,6 +191,6 @@ awards:
 
 ## About Me
 <p style="text-align: justify;">
-  Ali Bavafa is a data scientist with strong expertise in statistics and machine learning, complemented by extensive experience in medical imaging, neuroimaging, and neural signal processing. His research interests lie primarily in probabilistic machine learning and Bayesian statistics, with a particular focus on understanding and integrating diverse forms of structure and inductive biases into learning frameworks. He is especially interested in developing robust, scalable, and principled methodologies, with applications in neuroscience and healthcare.
+  Ali Ba-Vafa is a data scientist with strong expertise in statistics and machine learning, complemented by extensive experience in medical imaging, neuroimaging, and neural signal processing. His research interests lie primarily in probabilistic machine learning and Bayesian statistics, with a particular focus on understanding and integrating diverse forms of structure and inductive biases into learning frameworks. He is especially interested in developing robust, scalable, and principled methodologies, with applications in neuroscience and healthcare.
 </p>
 
