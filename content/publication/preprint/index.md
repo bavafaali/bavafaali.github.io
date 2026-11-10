@@ -27,7 +27,7 @@ tags:
 - functional Magnetic Resonance Imaging
 - Human Connectome Project
 
-featured: true
+featured: false
 
 links:
 - name: Arxiv
