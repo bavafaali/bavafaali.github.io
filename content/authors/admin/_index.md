@@ -191,6 +191,6 @@ awards:
 
 ## About Me
 <p style="text-align: justify;">
-  I am research assistant in Brain Mapping Lab, at University of Tehran, Iran, under supervision of Prof. Hossein-Zadeh. I hold M.Sc. in Electrical Engineering majoring Bioelectrics from University of Tehran. I've also served as teaching assistant at Sharif University of Technology and Neuromatch Academy, mentoring students in deep learning and biomedical image analysis. I am interested in both fundamental and applied research. Specifically, my research interests lie in the areas of probabilistic machine learning (broadly interpreted), deep learning, causality, generative AI, robust & trustworthy ML, and application of AI algorithms in vision & medical imaging.
+  Ali Bavafa is a data scientist with strong expertise in statistics and machine learning, complemented by extensive experience in medical imaging, neuroimaging, and neural signal processing. His research interests lie primarily in probabilistic machine learning and Bayesian statistics, with a particular focus on understanding and integrating diverse forms of structure and inductive biases into learning frameworks. He is especially interested in developing robust, scalable, and principled methodologies, with applications in neuroscience and healthcare.
 </p>
 
