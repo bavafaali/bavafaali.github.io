@@ -74,7 +74,7 @@ education:
     # - Machine Learning
     # - Deep Generative Models
 
-  - area: M.Sc. ICM Student in Computer Science
+  - area: ICM Student in Computer Science
     institution: Mälardalen University, Västerås, Sweden
     date_start: 2023-01-15
     date_end: 2023-06-11
