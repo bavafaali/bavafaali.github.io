@@ -50,9 +50,9 @@ interests:
   - Causality
   - Causal Machine Learning
   - Bayesian and Probablistic ML
-  - NeuroAI
-  - Medical Image Computing
   - Generative AI
+  - Medical Image Computing
+  - NeuroAI
 
 education:
   # - area: PhD Artificial Intelligence
