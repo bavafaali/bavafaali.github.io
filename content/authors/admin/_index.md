@@ -49,7 +49,8 @@ profiles:
 interests:
   - Causality
   - Causal Machine Learning
-  - Bayesian Modelling
+  - Bayesian and Probablistic ML
+  - NeuroAI
   - Medical Image Computing
   - Generative AI
 
