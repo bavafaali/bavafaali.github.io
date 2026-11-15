@@ -53,6 +53,7 @@ interests:
   - Generative AI
   - Medical Image Computing
   - NeuroAI
+  - Statistical Signal Processing
 
 education:
   # - area: PhD Artificial Intelligence
